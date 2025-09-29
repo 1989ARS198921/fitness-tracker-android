@@ -1,0 +1,22 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+*.keystore
+captures/
+.externalNativeBuild
+.cxx
+*.ap_
+
+# Kotlin
+*.kt.swp
+
+# Build
+build/
+*.apk
+*.aar
+*.dex
+
+# macOS
+.DS_Store
